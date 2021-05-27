@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExDawEntornos.iml" filepath="$PROJECT_DIR$/ExDawEntornos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExDawEntornosGitHub.iml" filepath="$PROJECT_DIR$/ExDawEntornosGitHub.iml" />
     </modules>
   </component>
 </project>
